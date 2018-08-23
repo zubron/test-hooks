@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo yum update -y
-sudo yum install -y vim
+yum update -y
+yum install -y vim
